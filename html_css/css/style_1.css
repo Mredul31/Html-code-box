@@ -7,19 +7,20 @@
 #header {
     width: 100%;
     height: auto;
-    background-color: darkgreen;
+    background-color:rgb(56, 240, 0);
 }
 
 #content{
     width: 100%;
     height: 100vh;
-    background-color: rgba(26, 148, 5, 0.964);
+    background-color:rgb(233, 7, 7)
+    (26, 148, 5, 0.964);
 }
 
 #Footer {
     width: 100%;
     height: 10vh;
-    background-color: rgb(55, 12, 123);
+    background-color: white(55, 12, 123);
 }
 
 #logo {
